@@ -1,0 +1,8 @@
+- Created a Notes Making App using Node Js.
+- The backend framework I used is Express.
+- The frontend is created using EJS, "Embedded JavaScript".
+- The Database linked with it is Mongo DB.
+- Middleware Libraries like Passport and Sessions are used.
+- Passport uses Google's " oAuth " strategy for authentication.
+- Bootstrap was integrated
+- The app contains functionalities like "create new , view, edit , delete Notes . And switching between different google accounts of user.
